@@ -1,6 +1,6 @@
 # GoGenius
 ### Install
-```npm install && bower install
+´´´npm install && bower install
 
 ### Development
-```grunt watch
+´´´grunt watch
